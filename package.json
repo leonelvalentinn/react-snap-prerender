@@ -1,6 +1,6 @@
 {
   "name": "react-snap-prerender",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Zero-configuration framework-agnostic static prerendering for SPAs and without Folders to resove 308 Permanent Redirect in react-snap",
   "main": "index.js",
   "author": "kr1shjay",
