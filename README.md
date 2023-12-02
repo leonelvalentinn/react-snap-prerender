@@ -354,16 +354,4 @@ See [alternatives](doc/alternatives.md).
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 
 
-## Contributing
 
-### Report a bug
-
-Please provide a reproducible demo of a bug and steps to reproduce it. Thanks!
-
-### Share on the web
-
-Tweet it, like it, share it, star it. Thank you.
-
-### Code
-
-You can also contribute to [minimalcss](https://github.com/peterbe/minimalcss), which is a big part of `react-snap`. Also, give it some stars.
