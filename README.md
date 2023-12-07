@@ -20,7 +20,7 @@ Works Exactly like [react-snapshot](https://github.com/geelen/react-snapshot) bu
 Install:
 
 ```sh
-yarn add --dev react-snap
+yarn add --dev react-snap-prerender
 ```
 
 Change `package.json`:
@@ -64,7 +64,7 @@ if (rootElement.hasChildNodes()) {
 Install:
 
 ```sh
-yarn add --dev react-snap
+yarn add --dev react-snap-prerender
 ```
 
 Change `package.json`:
