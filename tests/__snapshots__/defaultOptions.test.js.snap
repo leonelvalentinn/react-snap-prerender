@@ -43,7 +43,7 @@ Object {
   "removeStyleTags": false,
   "saveAs": "html",
   "skipThirdPartyRequests": false,
-  "source": "build",
+  "source": "dist",
   "sourceMaps": true,
   "userAgent": "ReactSnap",
   "viewport": Object {
